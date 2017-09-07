@@ -6,6 +6,7 @@ Github Repo for the Economic and Financial Modeling Club
 University of Chicago
 
 Managed by Jason Phang
+Edited and updated in 2017 by Ariel Goldszmidt
 
 =============
 
