@@ -31,8 +31,8 @@ Week 8: Pandas, round-up
 
 Week 2: Admin Stuff (Slides not uploaded)
 
-Week 5: Web Scraping [[Notes](/Winter%20Week%205/WebScraping.pdf]
-[[NBER Example](/Winter%20Week%205/NBER.ipynb] 
+Week 5: Web Scraping [[Notes](/Winter%20Week%205/WebScraping.pdf)]
+[[NBER Example](/Winter%20Week%205/NBER.ipynb)] 
 [[Time Schedules Example](/Winter%20Week%205/Time%20Schedules.ipynb)]
 
 =============
@@ -41,7 +41,7 @@ Week 5: Web Scraping [[Notes](/Winter%20Week%205/WebScraping.pdf]
 
 Meetings: **Wednesdays 4.30-5.30pm, RY-276**
 
-* Week 3: Admin, Competitions [[Slideshow](/Spring%20Week%203/Week%203.ipynb]
+* Week 3: Admin, Competitions [[Slideshow](/Spring%20Week%203/Week%203.ipynb)]
 
 =============
 
