@@ -15,9 +15,9 @@ Week 2: Introduction, Diagnostic Test
 
 Week 3: Intro to Python
 
-Week 4: More Python (IPython Notebooks, Plotting). [IPYNB Assignment](http://nbviewer.ipython.org/github/zphang/efm-2014-2015/blob/master/Fall%20Week%204/EFM%20Fall%202014%20Week%204%20Assignment.ipynb)
+Week 4: More Python (IPython Notebooks, Plotting). [IPYNB Assignment](../efm-2014-2015/Fall Week 4/EFM Fall 2014 Week 4 Assignment.ipynb)
 
-Week 5: Portfolio Theory [IPYNB Assignment](http://nbviewer.ipython.org/github/zphang/efm-2014-2015/blob/master/Fall%20Week%205/Week%205%20Assignment.ipynb)
+Week 5: Portfolio Theory [IPYNB Assignment](../efm-2014-2015/Fall Week 5/Week 5 Assignment.ipynb)
 
 Week 6: CAPM
 
@@ -31,9 +31,9 @@ Week 8: Pandas, round-up
 
 Week 2: Admin Stuff (Slides not uploaded)
 
-Week 5: Web Scraping [[Notes](https://github.com/zphang/efm-2014-2015/blob/master/Winter%20Week%205/WebScraping.pdf?raw=true)]
-[[NBER Example](http://nbviewer.ipython.org/github/zphang/efm-2014-2015/blob/master/Winter%20Week%205/NBER.ipynb)] 
-[[Time Schedules Example](http://nbviewer.ipython.org/github/zphang/efm-2014-2015/blob/master/Winter%20Week%205/Time%20Schedules.ipynb)]
+Week 5: Web Scraping [[Notes](../efm-2014-2015/Winter Week 5/WebScraping.pdf]
+[[NBER Example](../efm-2014-2015/Winter Week 5/NBER.ipynb] 
+[[Time Schedules Example](../efm-2014-2015/Winter Week 5/Time Schedules.ipynb)]
 
 =============
 
@@ -41,13 +41,13 @@ Week 5: Web Scraping [[Notes](https://github.com/zphang/efm-2014-2015/blob/maste
 
 Meetings: **Wednesdays 4.30-5.30pm, RY-276**
 
-* Week 3: Admin, Competitions [[Slideshow](http://nbviewer.ipython.org/format/slides/github/zphang/efm-2014-2015/blob/master/Spring%20Week%203/Week%203.ipynb#/)]
+* Week 3: Admin, Competitions [[Slideshow](../efm-2014-2015/Spring Week 3/Week 3.ipynb]
 
 =============
 
 **Other IPython Notebooks**:
 
-0. [Before we start](http://nbviewer.ipython.org/github/zphang/efm-2014-2015/blob/master/Python%20Notebooks/00.%20Before%20we%20start.ipynb)
-1. [Python Basics](http://nbviewer.ipython.org/github/zphang/efm-2014-2015/blob/master/Python%20Notebooks/01.%20Python%20Basics.ipynb)
-2. [Libraries and Plotting](http://nbviewer.ipython.org/github/zphang/efm-2014-2015/blob/master/Python%20Notebooks/02.%20Libraries%20and%20Plotting.ipynb)
-3. [NumPy and SciPy](http://nbviewer.ipython.org/github/zphang/efm-2014-2015/blob/master/Python%20Notebooks/03.%20NumPy%20and%20SciPy%20basics.ipynb)
+0. [Before we start](../efm-2014-2015/Python Notebooks/00. Before we start.ipynb)
+1. [Python Basics](../efm-2014-2015/Python Notebooks/01. Python Basics.ipynb)
+2. [Libraries and Plotting](../efm-2014-2015/Python Notebooks/02. Libraries and Plotting.ipynb)
+3. [NumPy and SciPy](../efm-2014-2015/Python Notebooks/03. NumPy and SciPy basics.ipynb)
