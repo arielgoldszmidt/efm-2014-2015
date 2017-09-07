@@ -15,7 +15,7 @@ Week 2: Introduction, Diagnostic Test
 
 Week 3: Intro to Python
 
-Week 4: More Python (IPython Notebooks, Plotting). [IPYNB Assignment](../efm-2014-2015/Fall Week 4/EFM Fall 2014 Week 4 Assignment.ipynb)
+Week 4: More Python (IPython Notebooks, Plotting). [IPYNB Assignment](Fall Week 4/EFM Fall 2014 Week 4 Assignment.ipynb)
 
 Week 5: Portfolio Theory [IPYNB Assignment](../efm-2014-2015/Fall Week 5/Week 5 Assignment.ipynb)
 
